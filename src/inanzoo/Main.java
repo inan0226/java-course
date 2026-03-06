@@ -1,4 +1,4 @@
-package inanzoo; // 이 한 줄이 모든 오류를 해결해 줍니다!
+package inanzoo;
 
 import java.util.Scanner;
 
